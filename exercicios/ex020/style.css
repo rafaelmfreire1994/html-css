@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+ body { 
+    background-image: linear-gradient(to right, #56CBF9, #FF729F );
+    
+ }
+
+ main {
+    background-color: #d3c4d12c ;
+    width: 900px;
+    box-shadow: 10px 10px 10px #ff729f93 ;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+ }
+
+
+ #principal {
+     font-size: 40px;
+     font-family: "lobster";
+     text-shadow: 2px 2px 2px #a54a677a;
+     text-align: center;
+     color: #80394fbd;
+     
+ }
+
+ .subtitulos {
+     color: #305c6d;
+ }
+
+
